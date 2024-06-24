@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Neilton Seguins",
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        }
+      ],
+      "saldo": 2340
+    },
+    {
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Marcos Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "3849515c-6756-4892-88e1-258560ea2bdb",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "24/06/2024",
+          "mes": "Junho"
+        }
+      ],
+      "saldo": 3600
+    },
+    {
+      "id": "a42506b8-f369-409d-a7a1-d6fa54fb66e9",
+      "nome": "João Melo",
+      "email": "joaomelo@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "eeb55fc2-427b-4699-8abf-be29e33d2d2a",
+      "nome": "Thelma Sanford",
+      "email": "Eula.Grimes85@gmail.com",
+      "senha": "Jj4foWCi4HjDen0",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "c732068d-fc3e-4564-87bc-6a0aadfa32e9",
+      "nome": "Mildred Hauck",
+      "email": "Domenick87@hotmail.com",
+      "senha": "t_8IX5G2FUSLdmg",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "5f1282cf-9e6a-44bb-bd88-b061f5d44b5f",
+      "nome": "Gui Lima",
+      "email": "gui@email.com",
+      "senha": "456789",
+      "transacoes": [],
+      "saldo": 0
+    }
+  ]
+}
